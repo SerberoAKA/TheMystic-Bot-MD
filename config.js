@@ -4,7 +4,7 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "529381053259"
 global.confirmCode = ""
 global.authFile = `MysticSession`;
 
@@ -16,7 +16,7 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['529381053259', '👑 Mystic - Creador 👑', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
